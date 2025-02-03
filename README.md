@@ -27,4 +27,5 @@ Advanced AI voice assistant implemented using Python, integrating backend functi
         <li><strong>Real-Time Interaction:</strong> Conversation elements enable seamless real-time communication, improving responsiveness and user engagement.</li>
         <li><strong>Comprehensive Learning:</strong> This document provides well-explained code snippets and detailed explanations, making it a useful resource for developers interested in implementing similar features.</li>
     </ul>
+    
 ![PHOTO-2025-02-02-18-33-56](https://github.com/user-attachments/assets/aee020b5-5caf-4af3-b54c-51e2426cfb3d)
